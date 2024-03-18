@@ -83,6 +83,7 @@ main .personagem .imagem{
     background: none;
     cursor: pointer;
     border-radius: 50%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .botoes .botao img{
